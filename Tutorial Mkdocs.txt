@@ -1,0 +1,59 @@
+﻿Tutorial MkDocs
+
+Instalar python (se windows, lembrar de adicionar à variável de ambiente, marcando o check box durante a instalação)
+
+abir o terminal
+	- Verificar se o python foi instalado: C:\Users\username> python
+	- Verificar se o pip foi instalado: C:\Users\username>pip -V
+	- Instalar o mkdocs: C:\Users\username> pip install mkdocs
+	- Criar o projeto: C:\Users\username> mkdocs new 'nome-do-projeto'
+
+- Estrutura do projeto criado:
+	> docs
+	  - index.md	( arquivos .md são páginas do site )
+	mkdocs.yml	(arquivo de configuração)
+	
+Abra o projeto com um editor de sua preferência, como Visual Studio Code, Subline ...
+	rodando o projeto: mkdocs serve
+
+Instalando o thema do Material:
+	- Utilizar o comando: C:\Users\username> pip install mkdocs-material
+	- No arquivo mkdocs.yml faça: 
+			thema:
+			   name: 'material'
+
+Hospedando o projeto no github page:
+	- Cria o repositorio no site do github
+	- Cria a conexão do repositorio remoto com o diretorio do projeto: 
+		> git init
+		> git remote add origin git@github.com:'path do repositorio'
+	- Faz o deploy:
+		> mkdocs gh-deploy
+	- A urldo projeto é exibida no resultado do comando acima
+
+
+
+Referências:
+
+Link oficial:
+	- https://www.mkdocs.org/
+	
+Links de úteis:
+	Themas: 
+		- https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+		- https://squidfunk.github.io/mkdocs-material/getting-started/ (link da documentação de um dos temas - material)
+	Sintax: https://www.markdownguide.org/basic-syntax/ 	
+	Video aula (live): https://www.youtube.com/watch?v=rX8MRsN1N-U 
+
+Outros links:	
+	https://sempreupdate.com.br/como-criar-documentacao-com-mkdocs/
+	https://imasters.com.br/desenvolvimento/mkdocs-documentacao-de-projetos-com-markdown
+	
+	
+Sites que usam o mkdocs
+	- Django:
+		- https://www.django-rest-framework.org/tutorial/quickstart/
+		- https://github.com/encode/django-rest-framework 
+	
+	- https://www.wappalyzer.com/technologies/mkdocs (aqui tem outros sites que usam o mkdocs)
+	
