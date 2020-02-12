@@ -1,0 +1,8 @@
+site_name: RedesoftDocs
+# repo_url: 
+theme:
+  name: 'material'
+  language: 'pt'
+
+extra_css:
+- css/extra_css.css
