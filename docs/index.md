@@ -1,13 +1,11 @@
-# Plataforma de Desenvolvimento de Software
+# Home Page
 
-Conheça a Redesoft, visite [redesoft.com.br](https://redesoft.com.br).
+Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindureta. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Interagi no mé, cursus quis, vehicula ac nisi. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!  
 
-## Documentação de Convenções
-O principal objetivo desta documentação é guiar os desenvolvedores da REDESOFT na escrita de códigos padronizados e claros.  
+## Subtitulo
+Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindureta. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Interagi no mé, cursus quis, vehicula ac nisi. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!  
 
-Estudos mostram que 80% do tempo de vida de um software é gasto com manutenção. Sabe-se ainda que dificilmente o desenvolvedor que dará manutenção é o mesmo que desenvolveu o software. Portanto, esforços que ajudem na legibilidade do código tornam-se imprescindíveis.  
-
-A Redesoft utiliza duas linguagens de programação e por isso seus desenvolvedores devem consultar a documentação de [Convenções Delphi](/desenvolvimento/padrões/convencoesDelphi) e/ou [Convenções Java](/desenvolvimento/padrões/convencoesJava), dependendo da linguagem que utiliza ou que utilizará, para que assim seja mantido o padrão de códificação da empresa.
+Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus. Detraxit consequat et quo num tendi nada. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Casamentiss faiz malandris se pirulitá. [mais bolis](/desenvolvimento/conteudo/convencoesDelphi). Nam vulputate dapibus. Detraxit consequat et quo num tendi nada. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Casamentiss faiz malandris se pirulitá.
 
 <!-- 
 ## Commands

@@ -1,5 +1,5 @@
 site_name: RedesoftDocs
-# repo_url: 
+repo_url: https://github.com/saulobezerra/iniciandoComMkdocs
 theme:
   name: 'material'
   language: 'pt'
